@@ -28,14 +28,14 @@ pre {
 	word-wrap:   break-word;
 }
 
-.main {
+#main {
 	height: 100%;
 	width: 80%;
 	float: right;
 	padding-left: 1em;
 }
 
-.sidebar {
+#sidebar {
 	height: 100%;
 	width: 20%;
 	float: left;
