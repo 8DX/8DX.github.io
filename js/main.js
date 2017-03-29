@@ -1,4 +1,4 @@
 $(function() { 
 	//stuff and junk
-	$(".container").text("stuff and junk")
+	$(".words").text("stuff and junk")
 })
