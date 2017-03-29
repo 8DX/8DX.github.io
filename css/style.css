@@ -30,17 +30,16 @@ pre {
 
 .main {
 	height: 100%;
-	width: 75%;
+	width: 85%;
 	float: right;
-	display: box;
 }
 
 .sidebar {
 	height: 100%;
-	width: 25%;
+	width: 15%;
 	float: left;
 	border-right: 1px inset #d3d3d3;
-	display: box;
+	padding-left: 2em;
 }
 
 .middle {
