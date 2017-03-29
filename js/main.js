@@ -1,5 +1,5 @@
 $(function() { 
 	//stuff and junk
-	$(".words").text("stuff and junk")
-	alert("derp")
+	$(".words").text("stuff and junk");
+	alert("derp");
 })
