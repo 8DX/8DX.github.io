@@ -11,6 +11,7 @@ html {
 html, body {
   margin: 0;
   padding: 0;
+  height: 100%;
   }
 
 img {
@@ -31,13 +32,15 @@ pre {
 	height: 100%;
 	width: 75%;
 	float: right;
+	display: box;
 }
 
 .sidebar {
-	height: 100%'
+	height: 100%;
 	width: 25%;
 	float: left;
 	border-right: 1px inset #d3d3d3;
+	display: box;
 }
 
 .middle {
